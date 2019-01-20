@@ -1,0 +1,448 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c1be4341-698f-403d-aefd-c6dc2c0099a4" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/first_test$registration_test.coverage" NAME="registration_test Coverage Results" MODIFIED="1542919202622" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tests/Scripts" />
+    <SUITE FILE_PATH="coverage/first_test$login_test.coverage" NAME="login_test Coverage Results" MODIFIED="1542612466141" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tests" />
+    <SUITE FILE_PATH="coverage/first_test$Unittests_in_registration_test_py.coverage" NAME="Unittests in registration_test.py Coverage Results" MODIFIED="1547319669581" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tests/scripts" />
+    <SUITE FILE_PATH="coverage/first_test$Unittests_for_registration_test_Registration.coverage" NAME="Unittests for registration_test.Registration Coverage Results" MODIFIED="1547317223833" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tests/scripts" />
+    <SUITE FILE_PATH="coverage/first_test$Unittests_in_login_testcopy_py.coverage" NAME="Unittests in login_testcopy.py Coverage Results" MODIFIED="1542612192398" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tests" />
+    <SUITE FILE_PATH="coverage/first_test$Unittests_in_bloknot_py.coverage" NAME="Unittests in bloknot.py Coverage Results" MODIFIED="1547317723259" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tests" />
+    <SUITE FILE_PATH="coverage/first_test$Unittests_in_reg_test_py.coverage" NAME="Unittests in reg_test.py Coverage Results" MODIFIED="1542889282650" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tests" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/tests/scripts/registration_test.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="510">
+              <caret line="34" column="44" selection-start-line="34" selection-start-column="44" selection-end-line="34" selection-end-column="44" />
+              <folding>
+                <element signature="e#0#15#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/tests/TestBase/environment_set_up.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="330">
+              <caret line="22" column="22" selection-start-line="22" selection-start-column="22" selection-end-line="22" selection-end-column="22" />
+              <folding>
+                <element signature="e#0#15#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/tests/Pages/GeneralPage.py" />
+        <option value="$PROJECT_DIR$/tests/Pages/SignUp" />
+        <option value="$PROJECT_DIR$/tests/registration_test.py" />
+        <option value="$PROJECT_DIR$/tests/login_testcopy.py" />
+        <option value="$PROJECT_DIR$/tests/login_test.py" />
+        <option value="$PROJECT_DIR$/tests/reg_test.py" />
+        <option value="$PROJECT_DIR$/tests/TestBase/SaseSetUp.py" />
+        <option value="$PROJECT_DIR$/tests/TestUtility/screen_shot.py" />
+        <option value="$PROJECT_DIR$/tests/PageObject/Locators.py" />
+        <option value="$PROJECT_DIR$/tests/PageObject/Pages/Home.py" />
+        <option value="$PROJECT_DIR$/tests/Scripts/registration_test.py" />
+        <option value="$PROJECT_DIR$/tests/PageObject/Pages/SignUp" />
+        <option value="$PROJECT_DIR$/tests/TestBase/EnvironmentSetUp.py" />
+        <option value="$PROJECT_DIR$/tests/pages/Locators.py" />
+        <option value="$PROJECT_DIR$/tests/pages/home.py" />
+        <option value="$PROJECT_DIR$/tests/TestBase/environment_set_up.py" />
+        <option value="$PROJECT_DIR$/tests/bloknot.py" />
+        <option value="$PROJECT_DIR$/tests/pages/locators.py" />
+        <option value="$PROJECT_DIR$/tests/pages/sign_up.py" />
+        <option value="$PROJECT_DIR$/tests/scripts/registration_test.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="67" />
+    <option name="y" value="25" />
+    <option name="width" value="1390" />
+    <option name="height" value="617" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State />
+          <State>
+            <id>Python</id>
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>PyPep8Inspection</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="learning_page_object" type="b2602c69:ProjectViewProjectNode" />
+              <item name="learning_page_object" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="learning_page_object" type="b2602c69:ProjectViewProjectNode" />
+              <item name="learning_page_object" type="462c0819:PsiDirectoryNode" />
+              <item name="drivers" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="learning_page_object" type="b2602c69:ProjectViewProjectNode" />
+              <item name="learning_page_object" type="462c0819:PsiDirectoryNode" />
+              <item name="tests" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="learning_page_object" type="b2602c69:ProjectViewProjectNode" />
+              <item name="learning_page_object" type="462c0819:PsiDirectoryNode" />
+              <item name="tests" type="462c0819:PsiDirectoryNode" />
+              <item name="pages" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="learning_page_object" type="b2602c69:ProjectViewProjectNode" />
+              <item name="learning_page_object" type="462c0819:PsiDirectoryNode" />
+              <item name="tests" type="462c0819:PsiDirectoryNode" />
+              <item name="scripts" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="learning_page_object" type="b2602c69:ProjectViewProjectNode" />
+              <item name="learning_page_object" type="462c0819:PsiDirectoryNode" />
+              <item name="tests" type="462c0819:PsiDirectoryNode" />
+              <item name="TestBase" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/tests" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python tests.Unittests in registration_test.py">
+    <configuration name="registration_test" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="first_test" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tests/Scripts" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/tests/Scripts/registration_test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests for registration_test.Registration" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="first_test" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tests/scripts" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;registration_test.Registration&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests in bloknot.py" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="first_test" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tests" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/tests/bloknot.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests in reg_test.py" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="first_test" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tests" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/tests/reg_test.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests in registration_test.py" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="first_test" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tests/scripts" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/tests/scripts/registration_test.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.registration_test" />
+      <item itemvalue="Python tests.Unittests in reg_test.py" />
+      <item itemvalue="Python tests.Unittests in bloknot.py" />
+      <item itemvalue="Python tests.Unittests in registration_test.py" />
+      <item itemvalue="Python tests.Unittests for registration_test.Registration" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python tests.Unittests in registration_test.py" />
+        <item itemvalue="Python tests.Unittests in bloknot.py" />
+        <item itemvalue="Python tests.Unittests for registration_test.Registration" />
+        <item itemvalue="Python.registration_test" />
+        <item itemvalue="Python tests.Unittests in reg_test.py" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c1be4341-698f-403d-aefd-c6dc2c0099a4" name="Default Changelist" comment="" />
+      <created>1538074077210</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1538074077210</updated>
+      <workItem from="1542880785578" duration="18108000" />
+      <workItem from="1546890997270" duration="2049000" />
+      <workItem from="1547314166624" duration="1794000" />
+      <workItem from="1547315989688" duration="1793000" />
+      <workItem from="1547317800737" duration="1793000" />
+      <workItem from="1547319611147" duration="917000" />
+      <workItem from="1547320572073" duration="37000" />
+      <workItem from="1548012443262" duration="13000" />
+      <workItem from="1548012510818" duration="907000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="Unittests_for_registration_test_Registration - 2019.01.12 at 20h 20m 03s.xml">
+      <configuration name="Unittests for registration_test.Registration" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_registration_test_py - 2019.01.12 at 20h 20m 20s.xml">
+      <configuration name="Unittests in registration_test.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_registration_test_Registration - 2019.01.12 at 20h 20m 40s.xml">
+      <configuration name="Unittests for registration_test.Registration" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_registration_test_py - 2019.01.12 at 20h 21m 00s.xml">
+      <configuration name="Unittests in registration_test.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_registration_test_py - 2019.01.12 at 20h 24m 39s.xml">
+      <configuration name="Unittests in registration_test.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_registration_test_py - 2019.01.12 at 20h 26m 36s.xml">
+      <configuration name="Unittests in registration_test.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_registration_test_py - 2019.01.12 at 20h 26m 53s.xml">
+      <configuration name="Unittests in registration_test.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_bloknot_py - 2019.01.12 at 20h 28m 52s.xml">
+      <configuration name="Unittests in bloknot.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_registration_test_py - 2019.01.12 at 20h 43m 46s.xml">
+      <configuration name="Unittests in registration_test.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_registration_test_py - 2019.01.12 at 21h 01m 10s.xml">
+      <configuration name="Unittests in registration_test.py" configurationId="tests" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="27411000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="67" y="25" width="1853" height="1055" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.37354732" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.66297734" weight="0.35105205" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.4997233" weight="0.3986711" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.3370227" side_tool="true" weight="0.4551495" />
+      <window_info anchor="bottom" id="Terminal" order="11" />
+      <window_info anchor="bottom" id="Python Console" order="12" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="SciView" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/env_test/pip-selfcheck.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tests/Pages/GeneralPage.py" />
+    <entry file="file://$PROJECT_DIR$/tests/Pages/SignUp" />
+    <entry file="file://$PROJECT_DIR$/tests/login_testcopy.py" />
+    <entry file="file://$PROJECT_DIR$/tests/login_test.py" />
+    <entry file="file://$PROJECT_DIR$/tests/registration_test.py" />
+    <entry file="file://$PROJECT_DIR$/tests/TestBase/SaseSetUp.py" />
+    <entry file="file://$PROJECT_DIR$/tests/note_test" />
+    <entry file="file://$PROJECT_DIR$/tests/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tests/testutility/__init__.py" />
+    <entry file="file://$PROJECT_DIR$/tests/TestBase/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tests/Scripts/__init__.py" />
+    <entry file="file://$PROJECT_DIR$/tests/PageObject/Pages/__init__.py" />
+    <entry file="file://$PROJECT_DIR$/tests/TestUtility/screen_shot.py" />
+    <entry file="file://$PROJECT_DIR$/tests/PageObject/__init__.py" />
+    <entry file="file://$PROJECT_DIR$/tests/PageObject/Pages/SignUp" />
+    <entry file="file://$PROJECT_DIR$/tests/Scripts/registration_test.py" />
+    <entry file="file://$PROJECT_DIR$/tests/PageObject/Locators.py" />
+    <entry file="file://$PROJECT_DIR$/tests/PageObject/Pages/Home.py" />
+    <entry file="file://$PROJECT_DIR$/tests/pages/Locators.py" />
+    <entry file="file://$PROJECT_DIR$/tests/log_test.py" />
+    <entry file="file://$PROJECT_DIR$/tests/test_utility/screen_shot.py" />
+    <entry file="file://$PROJECT_DIR$/tests/reg_test.py" />
+    <entry file="file://$PROJECT_DIR$/tests/TestBase/EnvironmentSetUp.py" />
+    <entry file="file:///usr/lib/python2.7/unittest/loader.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1290">
+          <caret line="95" selection-start-line="95" selection-end-line="95" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tests/pages/home.py" />
+    <entry file="file://$PROJECT_DIR$/tests/pages/sign_up.py" />
+    <entry file="file://$PROJECT_DIR$/tests/bloknot.py" />
+    <entry file="file://$PROJECT_DIR$/tests/pages/locators.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="19" column="26" selection-start-line="19" selection-start-column="26" selection-end-line="19" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tests/pages/home_page.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#43#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tests/pages/signup_page.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="31" lean-forward="true" selection-start-line="7" selection-start-column="31" selection-end-line="7" selection-end-column="31" />
+          <folding>
+            <element signature="e#0#43#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tests/scripts/registration_test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="510">
+          <caret line="34" column="44" selection-start-line="34" selection-start-column="44" selection-end-line="34" selection-end-column="44" />
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tests/TestBase/environment_set_up.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="22" column="22" selection-start-line="22" selection-start-column="22" selection-end-line="22" selection-end-column="22" />
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
